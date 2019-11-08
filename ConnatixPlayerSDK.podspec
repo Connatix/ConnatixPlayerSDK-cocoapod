@@ -22,7 +22,7 @@ s.ios.deployment_target = '12.0'
 s.ios.vendored_frameworks = 'ConnatixPlayerSDK.framework'
 
 # 6
-s.source = { :git => "git@github.com:Connatix/ConnatixPlayerSDK-cocoapod.git", :tag => "#{s.version}" }
+s.source = { :git => "https://github.com/Connatix/ConnatixPlayerSDK-cocoapod.git", :tag => "#{s.version}" }
 
 s.swift_version = "5.0"
 
