@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/ConnatixPlayerSDK-Swift.h</key>
 		<data>
-		N6yUkdl4revOdYl5kV7juZgCqx4=
+		iwlnzd9wFIUzgkY8ZzntFAu6rWg=
 		</data>
 		<key>Headers/ConnatixPlayerSDK.h</key>
 		<data>
@@ -14,15 +14,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8s65G8QMVdz98PadVfl8+R9GjK0=
+		9Yz7YEPanXdNVAsEa6YBjiGXOOA=
+		</data>
+		<key>Modules/ConnatixPlayerSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		o27JyqMDOSol0i/SaPiS62DJQRA=
+		</data>
+		<key>Modules/ConnatixPlayerSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		DucNhYjuuD/Cmm8oBSYwJzF8Ccs=
 		</data>
 		<key>Modules/ConnatixPlayerSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		OtPkw4xyJ+LtMDGWY74+zYEE8qI=
+		o27JyqMDOSol0i/SaPiS62DJQRA=
 		</data>
 		<key>Modules/ConnatixPlayerSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		4GOUWbLmxoSj1tlrVZx3z2N/Gy8=
+		DucNhYjuuD/Cmm8oBSYwJzF8Ccs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -35,7 +43,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qa+W7o6+MHaREdrhPhXlE8sJCC2ZskIyvRieJze2kX8=
+			SgkCrPmOAKQGl1kj/pmGt32R7IEkGCzEmYORmfeNtw0=
 			</data>
 		</dict>
 		<key>Headers/ConnatixPlayerSDK.h</key>
@@ -45,18 +53,32 @@
 			rScWcH66w21XI62bfB+4r3Nnu75Q1vbGfzNgWFTMOaQ=
 			</data>
 		</dict>
+		<key>Modules/ConnatixPlayerSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			63Og1XtjkKtXapAxg9RewAOZQZMTgeC7pY5CEV6dgKw=
+			</data>
+		</dict>
+		<key>Modules/ConnatixPlayerSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2L8DB2Qz9oQzLn9g5kAyj0Gbun4hF7/lA2ptGh5Jw/M=
+			</data>
+		</dict>
 		<key>Modules/ConnatixPlayerSDK.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			25oxv3qGBIgP6rO8SAzd1fLB/kFyPQtrQwbYeAU4TyE=
+			63Og1XtjkKtXapAxg9RewAOZQZMTgeC7pY5CEV6dgKw=
 			</data>
 		</dict>
 		<key>Modules/ConnatixPlayerSDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			296Ozn7g5PoQenTzbhUTIX+a90agsDtgCGnf8G+rgxI=
+			2L8DB2Qz9oQzLn9g5kAyj0Gbun4hF7/lA2ptGh5Jw/M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
