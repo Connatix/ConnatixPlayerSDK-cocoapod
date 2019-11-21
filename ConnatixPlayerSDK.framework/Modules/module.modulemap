@@ -1,0 +1,11 @@
+framework module ConnatixPlayerSDK {
+  umbrella header "ConnatixPlayerSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module ConnatixPlayerSDK.Swift {
+    header "ConnatixPlayerSDK-Swift.h"
+    requires objc
+}
