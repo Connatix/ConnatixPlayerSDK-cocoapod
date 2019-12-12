@@ -205,7 +205,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 SWIFT_CLASS("_TtC17ConnatixPlayerSDK17ConnatixPlayerSDK")
 @interface ConnatixPlayerSDK : UIView <WKNavigationDelegate, WKUIDelegate>
-- (void)didMoveToSuperview;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder SWIFT_UNAVAILABLE;
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 @end
