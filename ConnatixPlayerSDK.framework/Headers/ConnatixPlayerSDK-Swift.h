@@ -209,8 +209,6 @@ SWIFT_CLASS("_TtC17ConnatixPlayerSDK17ConnatixPlayerSDK")
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 @end
 
-
-
 @class WKUserContentController;
 @class WKScriptMessage;
 
@@ -223,6 +221,18 @@ SWIFT_CLASS("_TtC17ConnatixPlayerSDK17ConnatixPlayerSDK")
 
 
 
+
+
+
+
+SWIFT_CLASS("_TtC17ConnatixPlayerSDK14ElementsPlayer")
+@interface ElementsPlayer : ConnatixPlayerSDK
+@end
+
+
+SWIFT_CLASS("_TtC17ConnatixPlayerSDK15PlayspacePlayer")
+@interface PlayspacePlayer : ConnatixPlayerSDK
+@end
 
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop

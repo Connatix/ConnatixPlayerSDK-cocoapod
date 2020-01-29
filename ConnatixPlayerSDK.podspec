@@ -7,7 +7,7 @@ s.summary = "Connatix Player SDK for iOS"
 s.requires_arc = true
 
 # 2
-s.version = "1.2.0"
+s.version = "1.2.1"
 
 # 3
 s.license = 'Apache-2.0'
